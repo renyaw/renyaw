@@ -12,7 +12,7 @@
 <tr>
 <td align="left">
 - :office: &nbsp;I'm currently learning at Diponegoro University a Bachelor of Computer Science
-<br>- :seedling: &nbsp;I’m currently learning Everything
+<br>- :seedling: &nbsp;I’m currently learning PHP
 <br>- :mailbox: &nbsp;Ask me anything
 </td>
 <td align="left">
