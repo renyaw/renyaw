@@ -16,9 +16,7 @@
 <br>- :mailbox: &nbsp;Ask me anything
 </td>
 <td align="left">
-      <a href="#renyaw-title">
-        (https://raw.githubusercontent.com/renyaw/stats/master/generated/languages.svg#gh-dark-mode-only)
-      </a>
+       (https://raw.githubusercontent.com/renyaw/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 </td>
 
   
