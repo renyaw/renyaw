@@ -1,5 +1,20 @@
 ### Hi Renada's Here! 👋
+<h1 align="left" id="macropower-title">:wave: Hi Renada's Here!</h1>
 
-- 🔭 I’m currently learing at Diponegoro University a Bachelor of Computer Science
-- 🌱 I’m currently learning Javascript
-- 💬 Ask me about LOVE XD
+<p align="left">
+  <a href="https://github.com/renyaw/renyaw">
+    <img src="https://komarev.com/ghpvc/?username=renyaw" alt="page views" />
+  </a>
+  <a href="https://github.com/renyaw?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/renyaw?color=green&logo=github">
+  </a>
+</p>
+<table>
+<tr>
+<td align="left">
+- :office: &nbsp;I'm currently learning at Diponegoro University a Bachelor of Computer Scoence
+<br>- :seedling: &nbsp;I’m currently learning Everything
+<br>- :mailbox: &nbsp;Ask me anything
+</td>
+</tr>
+</table>
