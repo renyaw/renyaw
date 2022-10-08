@@ -1,4 +1,3 @@
-### Hi Renada's Here! 👋
 <h1 align="left" id="macropower-title">:wave: Hi Renada's Here!</h1>
 
 <p align="left">
