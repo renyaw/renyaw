@@ -12,9 +12,24 @@
 <table>
 <tr>
 <td align="left">
-- :office: &nbsp;I'm currently learning at Diponegoro University a Bachelor of Computer Scoence
+- :office: &nbsp;I'm currently learning at Diponegoro University a Bachelor of Computer Science
 <br>- :seedling: &nbsp;I’m currently learning Everything
 <br>- :mailbox: &nbsp;Ask me anything
 </td>
 </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="left">
+   <a href="#renyaw-title">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renyaw&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="renyaw" align="left"/>
+    </a>
+    </td>
+    <td align="right">
+    <a href="#renyaw-title">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=renyaw&theme=react&border=61dafb&hide_border=true" alt="renyaw" align="right"/>
+    </a>
+    </td>
+  </tr>
 </table>
