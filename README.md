@@ -24,4 +24,7 @@
   <a href="https://github.com/renyaw?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/renyaw?color=green&logo=github">
   </a>
+  <a href="https://github.com/renyaw?tab=following">
+    <img alt="GitHub following" src="https://img.shields.io/github/following/renyaw?color=green&logo=github">
+  </a>
 </p>
