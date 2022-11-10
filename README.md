@@ -21,9 +21,6 @@
   </tr>
 </table>
 <p align="left">
-  <a href="https://github.com/renyaw/renyaw">
-    <img src="https://komarev.com/ghpvc/?username=renyaw" alt="page views" />
-  </a>
   <a href="https://github.com/renyaw?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/renyaw?color=green&logo=github">
   </a>
