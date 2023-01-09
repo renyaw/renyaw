@@ -13,7 +13,7 @@
   <tr>
     <td align="left">
 <a href="#renyaw-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=renyaw&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="renyaw" align="right"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renyaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </td>
     <td align="right">
