@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hi Renada's Here!</h1>
 :office: &nbsp;I'm currently learning at Diponegoro University a Bachelor of Computer Science
-<br> :seedling: &nbsp;I’m currently learning Golang
+<br> :seedling: &nbsp;I’m currently learning Node JS and React JS
 <br>
 <br>
 <p align="left">
