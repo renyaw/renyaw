@@ -8,14 +8,14 @@
   <a href="https://github.com/renyaw?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/renyaw?color=green&logo=github">
   </a>
+  <a href="https://www.linkedin.com/in/nora-renada/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <table>
   <tr>
     <td align="left">
-<a href="#renyaw-title">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=renyaw&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renyaw&show_icons=true&locale=en&layout=compact&theme=react" alt="ovi" />
 </td>
     <td align="right">
     <a href="#renyaw-title">
@@ -25,3 +25,5 @@
   </tr>
 </table>
 
+<h1 align="left" id="macropower-title">⚡ Stats!</h1>
+<img src="https://myreadme.vercel.app/api/embed/renyaw?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
